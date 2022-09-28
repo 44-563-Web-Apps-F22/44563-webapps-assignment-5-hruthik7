@@ -1,2 +1,2 @@
 # WebApps-Assignment-5 Starter Code
-Hosted @ [Hosted at](https://github.com/44-563-Web-Apps-F22/44563-webapps-assignment-5-hruthik7/insects.html)
+Hosted @ [Hosted at](https://44-563-web-apps-f22.github.io/44563-webapps-assignment-5-hruthik7/insects.html)
